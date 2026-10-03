@@ -242,7 +242,7 @@ Spring Boot 3 / 4
 
 
 
-I primi 18 moduli costituiscono le fondamenta.
+I primi 18 moduli costituiscono le fondamenta. (01–18 implementati in lessons/).
 
 
 
@@ -304,7 +304,7 @@ Al termine di questa parte bisogna essere in grado di leggere e comprendere un'a
 
 
 
-Dopo le fondamenta si passa a Spring Boot.
+Dopo le fondamenta si passa a Spring Boot. (moduli 01–02 implementati in spring-boot/).
 
 
 
@@ -312,13 +312,13 @@ Dopo le fondamenta si passa a Spring Boot.
 
 |---:|---|
 
-| 19 | Hello World |
+| 19 | Hello World | ✅ (spring-boot/01-hello-world) |
 
-| 20 | Auto Configuration |
+| 20 | Auto Configuration | ⏳ |
 
-| 21 | Spring Boot Starters |
+| 21 | Spring Boot Starters | ⏳ |
 
-| 22 | REST API |
+| 22 | REST API | ✅ (spring-boot/02-rest-api) |
 
 | 23 | DTO |
 
